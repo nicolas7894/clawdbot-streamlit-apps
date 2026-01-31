@@ -1,0 +1,5 @@
+AGENTS.md
+SOUL.md
+*.log
+__pycache__/
+.env
